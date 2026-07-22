@@ -1,0 +1,5 @@
+Adafruit GFX Library
+Adafruit ST7735 and ST7789 Library
+Adafruit SHT4x Library
+RTClib
+PubSubClient
